@@ -19,3 +19,7 @@ let letter = "i"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+var = characterPosition
+
+
