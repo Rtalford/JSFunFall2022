@@ -8,4 +8,4 @@ let b = 5; // e.g.
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-var difference = a - b
+var difference = b - a
