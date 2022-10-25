@@ -14,9 +14,16 @@ let total;
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-if (total) {
+/*if (total) {
 console.log (total = subtotal + (subtotal * tip))
 } 
 else {
   console.log (total)
+}
+*/
+
+if (tip) {
+  total = subtotal + subtotal * tip;
+} else {
+  total = subtotal;
 }

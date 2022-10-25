@@ -11,5 +11,8 @@ let num2 = "7"; // e.g.
 
 /*let sum = num1 + num2;*/
 
-let sum = num1 + parseInt(num2)
+/*let sum = num1 + parseInt(num2)
 console.log (sum)
+*/
+
+let sum = parseFloat(num1) + parseFloat(num2);

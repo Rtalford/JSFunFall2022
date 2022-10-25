@@ -7,5 +7,8 @@ let answer = "55"; // e.g.
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-let answerInteger = parseInt(answer);
+/*let answerInteger = parseInt(answer);
 console.log(answerInteger + 5)
+*/
+
+answer = parseInt(answer);
