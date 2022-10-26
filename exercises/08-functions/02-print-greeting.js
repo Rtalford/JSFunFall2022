@@ -11,8 +11,15 @@
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-const printGreeting = (name) => {
-  console.log("Hello", name, "!");
+/*const printGreeting = (name) => {
+  console.log("Hello _______!");
 };
 
 printGreeting()
+*/
+
+const printGreeting = (name) => {
+  console.log("Hello", name,"!");
+}
+
+printGreeting("_____")

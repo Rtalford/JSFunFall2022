@@ -14,8 +14,8 @@
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-const printGreeting = (name) => {
-  return `Hello ${name}!)`;
+const returnGreeting = (name) => {
+  return `Hello ${name} !)`;
 };
 
-printGreeting()
+returnGreeting()
