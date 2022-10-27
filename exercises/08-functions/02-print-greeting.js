@@ -18,8 +18,13 @@
 printGreeting()
 */
 
-const printGreeting = (name) => {
+/*const printGreeting = (name) => {
   console.log("Hello", name,"!");
 }
 
 printGreeting("_____")
+*/
+
+const printGreeting = (name) => {
+  console.log("Hello " + name + "!");
+};
