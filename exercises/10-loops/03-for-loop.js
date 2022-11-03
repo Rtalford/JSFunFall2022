@@ -12,9 +12,22 @@
  */
 
 const logArrayWithFor = (array) => {
+	let counter = 10; 
+
+	while (counter < 10) {
+		
+	}
+	for (let i = 0; i <10; i+) {
+		console.log(counter);
+	}
 	// WRITE YOUR ANSWER HERE
 };
 
 // IGNORE THIS BELOW. It is for the tests.
 
 export default logArrayWithFor;
+
+/*
+let array = ["Honda", "Ford", "Ferrari"];
+
+// Create loop below

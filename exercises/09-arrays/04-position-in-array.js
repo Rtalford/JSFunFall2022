@@ -20,5 +20,8 @@ let results = [
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-let place = results.indexOf ("Jian Hou");
+/*let place = results.indexOf ("Jian Hou");
+console.log(place) */
+
+let place = results.indexOf ("Jian Hou") + 1;
 console.log(place)

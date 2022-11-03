@@ -17,6 +17,12 @@
  */
 
 const logWithWhile = () => {
+  
+  let counter = 10
+  while (counter <= 100) {
+  console.log(counter)
+  counter = counter + 10;
+  }
   // WRITE YOUR ANSWER HERE
 };
 
