@@ -11,3 +11,5 @@ const clothes = {
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+var hat = ( clothes.hat );

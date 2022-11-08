@@ -15,3 +15,8 @@ let student = {
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+student.name = "Reynelle"
+
+const newStudent = {...student, skills: "Java"
+ }
